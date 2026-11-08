@@ -473,7 +473,7 @@ class DarkZipExtractorApp:
             self.palette,
             title=title,
             start_dir=start,
-            file_ext=".zip",
+            file_ext=".rar",
             choose_directories=choose_directories,
         )
         if browser.result:
