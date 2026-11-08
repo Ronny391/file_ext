@@ -1,0 +1,5 @@
+[project]
+name = "file_ext"
+version = "1.0"
+requires-python = ">=3.10"
+dependencies = []
